@@ -1,4 +1,4 @@
-# I ain't readin allat!
+# 🗣️ I ain't readin allat!
 Don't fret, here's a TL;DR:
 ✅ You can        | ❌ You cannot                                                        | ⚠️ You must
 :---:             | :---:                                                                 | :---:
