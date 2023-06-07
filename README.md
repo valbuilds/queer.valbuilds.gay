@@ -150,6 +150,8 @@ _[Read more about the characters »](https://queer.valbuilds.xyz/extra/character
 
 _See the [open issues](https://github.com/valbuilds/queer.valbuilds.gay/issues) for a full list of proposed features (and known issues)._
 
+_You can also view the project page to go more in-depth._
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
