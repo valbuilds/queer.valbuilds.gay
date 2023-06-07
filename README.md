@@ -19,6 +19,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![OQL License][license-shield]][license-url]
 
@@ -205,10 +207,16 @@ Project Link: [https://github.com/valbuilds/queer.valbuilds.gay](https://github.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/valbuilds/queer.valbuilds.gay.svg?style=flat-square
-[contributors-url]: https://github.com/https://badgers.space/badge/github/contibutors/valbuilds/queer.valbuilds.gay/graphs/contributors
+[contributors-url]: https://github.com/valbuilds/queer.valbuilds.gay/graphs/contributors
 
-[issues-shield]: https://badgers.space/badge/github/open-issues/valbuilds/queer.valbuilds.gay
-[issues-url]: https://github.com/https://badgers.space/badge/github/contibutors/valbuilds/queer.valbuilds.gay/issues
+[forks-shield]: https://img.shields.io/github/forks/valbuilds/queer.valbuilds.gay.svg?style=flat-square
+[forks-url]: https://github.com/valbuilds/queer.valbuilds.gay/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/valbuilds/queer.valbuilds.gay.svg?style=flat-square
+[stars-url]: https://github.com/valbuilds/queer.valbuilds.gay/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/valbuilds/queer.valbuilds.gay.svg?style=flat-square
+[issues-url]: https://github.com/valbuilds/queer.valbuilds.gay/issues
 
 [license-shield]: https://badgers.space/badge/License/OQL/pink
 [license-url]: https://github.com/valbuilds/queer.valbuilds.gay/blob/master/LICENSE.md
@@ -230,3 +238,5 @@ Project Link: [https://github.com/valbuilds/queer.valbuilds.gay](https://github.
 
 [ghpg-badge]: https://img.shields.io/badge/Github_Pages-181717?style=flat-square&logo=github&logoColor=white
 [ghpg-url]: pages.github.com
+
+https://img.shields.io/github/last-commit/valbuilds/queer.valbuilds.gay
