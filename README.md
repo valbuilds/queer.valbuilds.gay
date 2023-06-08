@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/valbuilds/queer.valbuilds.gay">
+  <a href="https://github.com/valbuilds/queer.valbuilds.queer">
     <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
