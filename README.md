@@ -230,5 +230,5 @@ Project Link: [https://github.com/valbuilds/queer.valbuilds.gay](https://github.
 [bs-badge]: https://badgers.space/badge/Extra/Bootstrap/7952B3?label=&label_color=black&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/bs.png?raw=true
 [bs-url]: https://getbootstrap.com
 
-[ghpg-badge]: https://badgers.space/badge/IDE/GitHub Pages/222222?label=&label_color=black&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/gh.png?raw=true
+[ghpg-badge]: https://badgers.space/badge/IDE/Pages/222222?label=&label_color=black&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/gh.png?raw=true
 [ghpg-url]: pages.github.com
