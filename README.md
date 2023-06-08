@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/valbuilds/queer.valbuilds.gay">
+  <a href="https://github.com/valbuilds/queer.valbuilds.queer">
     <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -220,7 +220,7 @@ Project Link: [https://github.com/valbuilds/queer.valbuilds.gay](https://github.
 [issues-shield]: https://img.shields.io/github/issues/valbuilds/queer.valbuilds.gay.svg?style=flat-square
 [issues-url]: https://github.com/valbuilds/queer.valbuilds.gay/issues
 
-[license-shield]: https://badgers.space/badge/License/OQL/pink
+[license-shield]: https://img.shields.co/static/v1?label=License&message=OQL&color=pink&style=flat-square
 [license-url]: https://github.com/valbuilds/queer.valbuilds.gay/blob/master/LICENSE.md
 
 [vsc-badge]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white
@@ -240,5 +240,3 @@ Project Link: [https://github.com/valbuilds/queer.valbuilds.gay](https://github.
 
 [ghpg-badge]: https://img.shields.io/badge/Github_Pages-181717?style=flat-square&logo=github&logoColor=white
 [ghpg-url]: pages.github.com
-
-https://img.shields.io/github/last-commit/valbuilds/queer.valbuilds.gay
