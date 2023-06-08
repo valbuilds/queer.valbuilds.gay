@@ -18,18 +18,16 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![OQL License][license-shield]][license-url]
+[![Open issues][openissues-badge]][openissues-url]
+[![Contributors][contributors-badge]][contributors-url]
+[![OQL License][license-badge]][license-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/valbuilds/queer.valbuilds.queer">
+  <a href="https://github.com/valbuilds/queer.valbuilds.gay">
     <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -208,35 +206,29 @@ Project Link: [https://github.com/valbuilds/queer.valbuilds.gay](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/valbuilds/queer.valbuilds.gay.svg?style=flat-square
+[openissues-badge]: https://badgers.space/github/open-issues/valbuilds/queer.valbuilds.gay
+[openissues-url]: https://github.com/valbuilds/queer.valbuilds.gay/issues
+
+[contributors-badge]: https://badgers.space/github/contributors/valbuilds/queer.valbuilds.gay
 [contributors-url]: https://github.com/valbuilds/queer.valbuilds.gay/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/valbuilds/queer.valbuilds.gay.svg?style=flat-square
-[forks-url]: https://github.com/valbuilds/queer.valbuilds.gay/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/valbuilds/queer.valbuilds.gay.svg?style=flat-square
-[stars-url]: https://github.com/valbuilds/queer.valbuilds.gay/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/valbuilds/queer.valbuilds.gay.svg?style=flat-square
-[issues-url]: https://github.com/valbuilds/queer.valbuilds.gay/issues
-
-[license-shield]: https://img.shields.co/static/v1?label=License&message=OQL&color=pink&style=flat-square
+[license-badge]: https://badgers.space/badge/License/OQL/pink
 [license-url]: https://github.com/valbuilds/queer.valbuilds.gay/blob/master/LICENSE.md
 
-[vsc-badge]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white
+[vsc-badge]: https://badgers.space/badge/IDE/VSC/007ACC?label=&label_color=black&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/vsc.png?raw=true
 [vsc-url]: https://code.visualstudio.com
 
-[html5-badge]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+[html5-badge]: https://badgers.space/badge/Language/HTML5/E34F26?label=&label_color=black&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/html5.png?raw=true
 [html5-url]: https://www.w3schools.com/html/default.asp
 
-[css3-badge]: https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+[css3-badge]: https://badgers.space/badge/Language/CSS3/1572B6?label=&label_color=black&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/css3.png?raw=true
 [css3-url]: https://www.w3schools.com/css/default.asp
 
-[js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+[js-badge]: https://badgers.space/badge/Language/JavaScript/black?label=&label_color=F7DF1E&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/js.png?raw=true
 [js-url]: https://www.w3schools.com/js/default.asp
 
-[bs-badge]: https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white
+[bs-badge]: https://badgers.space/badge/Extra/Bootstrap/7952B3?label=&label_color=black&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/bs.png?raw=true
 [bs-url]: https://getbootstrap.com
 
-[ghpg-badge]: https://img.shields.io/badge/Github_Pages-181717?style=flat-square&logo=github&logoColor=white
+[ghpg-badge]: https://badgers.space/badge/IDE/GitHub Pages/222222?label=&label_color=black&icon=https://github.com/valbuilds/queer.valbuilds.gay/blob/main/readme-assets/icons/gh.png?raw=true
 [ghpg-url]: pages.github.com
